@@ -70,3 +70,13 @@ g++ -Wall -Wextra -Wpedantic -std=c++17 \
 ```
 
 Se invece usate Visual Studio, dovete seguire [**queste istruzioni**](https://www.sfml-dev.org/tutorials/2.5/start-vc.php) per includere e linkare SFML.
+
+## Risorse
+
+- Pagina download SFML: https://www.sfml-dev.org/download.php
+
+- Come installare SFML su Visual Studio: https://www.sfml-dev.org/tutorials/2.5/start-vc.php
+
+- Come installare SFML su altre piattaforme: https://www.sfml-dev.org/tutorials/2.5/
+
+- CppReference (documentazione C++): http://en.cppreference.com/
