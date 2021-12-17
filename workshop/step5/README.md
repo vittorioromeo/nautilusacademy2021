@@ -2,7 +2,7 @@
 
 ## Descrizione
 
-In questo step faremo rimbalzare la pallina contro i bordi della finestra. Il rimbalzo sarà totalmente elastico -- la magnitudo della velocità rimarrà costante, ma la direzione varierà.
+In questo step faremo rimbalzare la pallina contro i bordi della finestra. Il rimbalzo sarà totalmente elastico -- la magnitudine della velocità rimarrà costante, ma la direzione varierà.
 
 ## Obiettivi
 
