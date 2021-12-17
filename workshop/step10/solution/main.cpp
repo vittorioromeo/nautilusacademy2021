@@ -320,7 +320,7 @@ public:
         updateBallMovement();
         updateBallCollisionsAgainstBoundaries();
         updateBallCollisionsAgainstPlayer();
-updateBallCollisionsAgainstBricks();
+        updateBallCollisionsAgainstBricks();
 
         updatePlayerInput();
         updatePlayerMovement();
